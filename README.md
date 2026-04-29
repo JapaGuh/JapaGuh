@@ -1,6 +1,6 @@
-## Hi there 👋 Welcome to my GitHub!
+##👋 Welcome to my GitHub!
 
-I'm **JapaGuh**, a 16-year-old developer and tech enthusiast based in **São Paulo, Brazil**. I'm passionate about coding, problem-solving, and building applications that make a difference. I'm committed to continuous learning and growing my skills in software development.
+I'm **JapaGuh**, a 16-year-old developer and tech enthusiast living in **São Paulo, Brazil**. I'm passionate about coding, problem-solving, and building applications that make a difference. I'm committed to continuous learning and growing my skills in software development.
 
 ---
 
@@ -21,12 +21,7 @@ I'm **JapaGuh**, a 16-year-old developer and tech enthusiast based in **São Pau
 - 🔷 **C#** - Windows applications, game development, .NET projects
 - 📊 **Excel & VBA** - Data analysis, automation, spreadsheet optimization
 - 🎯 **VB (Visual Basic)** - Desktop applications, macro development
-
-**Other Technologies & Tools:**
-- Git & GitHub version control
-- API integration and REST principles
-- Database fundamentals
-- Problem-solving and algorithm development
+- 🎮 **GML (GameMaker Language)** - Game development, game design
 
 ---
 
@@ -56,6 +51,7 @@ I'm **JapaGuh**, a 16-year-old developer and tech enthusiast based in **São Pau
 - Mastering **Excel VBA** for business automation
 - Contributing to open-source projects
 - Growing my portfolio with diverse projects
+- Trying to get to know with area I am the most fond of which currently looks like **Back-end**, **Data Analysis** or **GameDev**
 
 ---
 
