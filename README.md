@@ -1,6 +1,6 @@
 ## Hi there 👋 Welcome to my GitHub!
 
-I'm **16 years old** and based in **São Paulo, Brazil**. I'm passionate about technology and committed to growing both professionally and personally.
+I'm **JapaGuh**, a 16-year-old developer and tech enthusiast based in **São Paulo, Brazil**. I'm passionate about coding, problem-solving, and building applications that make a difference. I'm committed to continuous learning and growing my skills in software development.
 
 ---
 
@@ -8,29 +8,58 @@ I'm **16 years old** and based in **São Paulo, Brazil**. I'm passionate about t
 
 - **Location:** São Paulo, Brazil 🇧🇷
 - **Age:** 16 years old
-- **Goal:** Seeking financial independence and professional growth
+- **Passion:** Software Development & Technology
+- **Goal:** Building a career as a skilled developer while gaining real-world experience
+
+---
+
+### 💻 Technical Skills
+
+**Languages:**
+- 🐍 **Python** - Data analysis, automation, backend development
+- ☕ **Java** - Object-oriented programming, application development
+- 🔷 **C#** - Windows applications, game development, .NET projects
+- 📊 **Excel & VBA** - Data analysis, automation, spreadsheet optimization
+- 🎯 **VB (Visual Basic)** - Desktop applications, macro development
+
+**Other Technologies & Tools:**
+- Git & GitHub version control
+- API integration and REST principles
+- Database fundamentals
+- Problem-solving and algorithm development
 
 ---
 
 ### 💼 Professional Objectives
 
-- 🔭 **Gain Work Experience:** Immerse myself in the job market and build real-world experience
-- 💡 **Contribute to Company Growth:** Play an active role in developing solutions and driving innovation
-- 📈 **Develop Skills:** Enhance both my technical and soft skills through hands-on projects
-- 🌱 **Professional Growth:** Build a strong foundation for a successful career in tech
-- 💪 **Personal Development:** Challenge myself to achieve my goals and expand my capabilities
+- 🔭 **Gain Work Experience:** Build a strong foundation in the job market through internships and projects
+- 💡 **Create Impactful Solutions:** Develop applications and tools that solve real-world problems
+- 📈 **Master Multiple Technologies:** Deepen expertise across Python, Java, C#, and more
+- 🌱 **Professional Growth:** Establish a solid career in software development
+- 💪 **Personal Development:** Challenge myself with complex projects and expand my problem-solving abilities
 
 ---
 
 ### 🌟 What I'm Looking For
 
-- 👯 Collaboration opportunities on interesting projects
-- 🤝 Mentorship and guidance from experienced professionals
-- 💬 Open to discussions about technology, innovation, and career growth
-- 📫 **Connect with me:** Feel free to reach out for opportunities or just to chat!
+- 👯 Collaboration on interesting and challenging projects
+- 🤝 Mentorship from experienced developers and tech professionals
+- 💬 Discussions about technology trends, best practices, and innovative solutions
+- 📫 **Connect with me:** Open to opportunities, advice, and technical conversations!
+
+---
+
+### 📊 Current Focus
+
+- Building projects with **Python** and **Java**
+- Exploring **C#** for desktop and game development applications
+- Mastering **Excel VBA** for business automation
+- Contributing to open-source projects
+- Growing my portfolio with diverse projects
 
 ---
 
 ### 🚀 Let's Build Something Great Together!
 
-*Open to internships, freelance projects, and learning opportunities.*
+*Open to internships, freelance projects, collaborations, and learning opportunities. Let's create something amazing!*
+
