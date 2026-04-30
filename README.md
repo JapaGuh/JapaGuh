@@ -15,7 +15,7 @@ I'm **JapaGuh**, a 16-year-old developer and tech enthusiast living in **São Pa
 
 ### 💻 Technical Skills
 
-**Languages & Technologies:**
+**Languages:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -24,16 +24,14 @@ I'm **JapaGuh**, a 16-year-old developer and tech enthusiast living in **São Pa
 ![Visual Basic](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)
 ![GameMaker](https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white)
 
-**Proficiency Breakdown:**
+**Languages uses:**
 
-| Language | Level | Progress |
-|----------|-------|----------|
-| 🐍 Python | Advanced | ████████░ 85% |
-| ☕ Java | Advanced | ████████░ 85% |
-| 🔷 C# | Intermediate | ██████░░░ 65% |
-| 📊 Excel & VBA | Intermediate | ███████░░ 75% |
-| 🎯 Visual Basic | Beginner-Intermediate | █████░░░░ 55% |
-| 🎮 GML | Intermediate | ███████░░ 70% |
+- 🐍 **Python** - Data analysis, automation, backend development
+- ☕ **Java** - Object-oriented programming, application development
+- 🔷 **C#** - Windows applications, game development, .NET projects
+- 📊 **Excel & VBA** - Data analysis, automation, spreadsheet optimization
+- 🎯 **VB (Visual Basic)** - Desktop applications, macro development
+- 🎮 **GML (GameMaker Language)** - Game development, game design
 
 ---
 
