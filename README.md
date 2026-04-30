@@ -1,6 +1,6 @@
 ##👋 Welcome to my GitHub!
 
-I'm **JapaGuh**, a 16-year-old developer and tech enthusiast living in **São Paulo, Brazil**. I'm passionate about coding, problem-solving, and building applications that make a difference. I'm committed to continuous learning and growing my skills in software development.
+I'm **JapaGuh**, a 16-year-old developer and tech enthusiast living in **São Paulo, Brazil**. I'm passionate about coding, problem-solving, and building applications that make a difference. I'm committed to continuous learning and creating innovative solutions!
 
 ---
 
@@ -15,13 +15,25 @@ I'm **JapaGuh**, a 16-year-old developer and tech enthusiast living in **São Pa
 
 ### 💻 Technical Skills
 
-**Languages:**
-- 🐍 **Python** - Data analysis, automation, backend development
-- ☕ **Java** - Object-oriented programming, application development
-- 🔷 **C#** - Windows applications, game development, .NET projects
-- 📊 **Excel & VBA** - Data analysis, automation, spreadsheet optimization
-- 🎯 **VB (Visual Basic)** - Desktop applications, macro development
-- 🎮 **GML (GameMaker Language)** - Game development, game design
+**Languages & Technologies:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Excel VBA](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Visual Basic](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)
+![GameMaker](https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white)
+
+**Proficiency Breakdown:**
+
+| Language | Level | Progress |
+|----------|-------|----------|
+| 🐍 Python | Advanced | ████████░ 85% |
+| ☕ Java | Advanced | ████████░ 85% |
+| 🔷 C# | Intermediate | ██████░░░ 65% |
+| 📊 Excel & VBA | Intermediate | ███████░░ 75% |
+| 🎯 Visual Basic | Beginner-Intermediate | █████░░░░ 55% |
+| 🎮 GML | Intermediate | ███████░░ 70% |
 
 ---
 
