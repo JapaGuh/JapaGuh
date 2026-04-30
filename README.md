@@ -15,7 +15,7 @@ I'm **JapaGuh**, a 16-year-old developer and tech enthusiast living in **São Pa
 
 ### 💻 Technical Skills
 
-**Languages:**
+**Languages and Technologies:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -24,7 +24,7 @@ I'm **JapaGuh**, a 16-year-old developer and tech enthusiast living in **São Pa
 ![Visual Basic](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)
 ![GameMaker](https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white)
 
-**Languages uses:**
+**Breakdown :**
 
 - 🐍 **Python** - Data analysis, automation, backend development
 - ☕ **Java** - Object-oriented programming, application development
